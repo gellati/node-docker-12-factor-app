@@ -1,0 +1,22 @@
+{
+  "name": "docker",
+  "version": "1.0.0",
+  "description": "Outline for Node and Docker app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gellat/node-docker-12-factor-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gellat/node-docker-12-factor-app/issues"
+  },
+  "homepage": "https://github.com/gellat/node-docker-12-factor-app#readme",
+  "dependencies": {
+    "react": "^15.0.2"
+  }
+}
