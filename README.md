@@ -1,1 +1,1 @@
-Outline for Node and Docker app.
+outline for Node and Docker app.
